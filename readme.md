@@ -1,17 +1,28 @@
-
 ._______ __       __
+
 |   |   |__.-----|  |--.--.--.--.---.-.--.--.  V 1.0  (01/2021)
+
 |       |  |  _  |     |  |  |  |  _  |  |  |
+
 |___|___|__|___  |__|__|________|___._|___  |
+
 .___       |_____|                    |_____|_                             __
+
 |aka|_.---.-.    .-----.----.---.-.-----.--|  |-----.    .----.-----.--.--|  |_.-----.
+
 |     |  _  |    |  _  |   _|  _  |     |  _  |  -__|    |   _|  _  |  |  |   _|  -__|
+
 |_____|___._|    |___  |__| |___._|__|__|_____|_____|    |__| |_____|_____|____|_____|
+
 .                |_____|
+
 by Loopingstar
+
 a game for LGE Little Game Engine (https://corax89.github.io/esp8266Game)
 
 ---------- ENGLISH ----------
+
+Note: Sorry, this version is a little buggy, but i don't have time to optimize it...
 
 This game is a more or less faithful adaptation of the LCD electronic game "Highway",
 known in France under the name "La grande route".
@@ -44,6 +55,8 @@ Hitchhikers and obstacles are rarer.
 
 ---------- FRENCH ----------
 
+Note: Désolé, cette version est un peu boguée, mais je n'ai pas le temps de l'optimiser...
+
 Ce jeu est une adaptation plus ou moins fidèle du jeu électronique LCD
 "Highway", connu en France sour le nom "La grande route".
 Le but est de rouler le plus longtemps possible en évitant les obstacles
@@ -75,12 +88,19 @@ Les autostoppeuses et les obstacles se font plus rares.
 
 
 ._____      _             _
+
 |  ___|    (_)           | |
+
 | |__ _ __  _  ___  _   _| |
+
 |  __| '_ \| |/ _ \| | | | |
+
 | |__| | | | | (_) | |_| |_|
+
 \____|_| |_| |\___/ \__, (_)
+
 .         _/ |       __/ |
+
          |__/       |___/
 
 
